@@ -4,6 +4,7 @@
 "0.0.0-race-a" = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 "0.0.0-race-e" = "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 "0.0.0-race-d" = "dddddddddddddddddddddddddddddddddddddddd"
+"0.0.0-race-f" = "ffffffffffffffffffffffffffffffffffffffff"
 
 [npm.simplex-chat]
 "7.1.0-beta.6.10" = "d30479ede8bd90009bab5b08aecad9d63e457ae2"
