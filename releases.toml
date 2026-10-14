@@ -1,11 +1,5 @@
 [core]
 "7.1.0.15" = "414c569e772593f5889545a30235e68a0d546da6"
-"0.0.0-race-b" = "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
-"0.0.0-race-a" = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-"0.0.0-race-e" = "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
-"0.0.0-race-d" = "dddddddddddddddddddddddddddddddddddddddd"
-"0.0.0-race-f" = "ffffffffffffffffffffffffffffffffffffffff"
-"0.0.0-race-c" = "cccccccccccccccccccccccccccccccccccccccc"
 "7.1.0.16" = "94ca58c75e49caef78e43249a526dee25271f343"
 
 [npm.simplex-chat]
