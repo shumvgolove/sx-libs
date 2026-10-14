@@ -6,6 +6,7 @@
 "0.0.0-race-d" = "dddddddddddddddddddddddddddddddddddddddd"
 "0.0.0-race-f" = "ffffffffffffffffffffffffffffffffffffffff"
 "0.0.0-race-c" = "cccccccccccccccccccccccccccccccccccccccc"
+"7.1.0.16" = "94ca58c75e49caef78e43249a526dee25271f343"
 
 [npm.simplex-chat]
 "7.1.0-beta.6.10" = "d30479ede8bd90009bab5b08aecad9d63e457ae2"
